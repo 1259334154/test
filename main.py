@@ -1,3 +1,4 @@
+import init_streamlit
 import streamlit as st
 
 from tab3 import page_3
