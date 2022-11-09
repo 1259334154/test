@@ -1,0 +1,74 @@
+Sepcies,CellType,Marker,Literatura
+mouse,endothelium,CD31,Single-Cell Transcriptomic Map of the Human and Mouse Bladders
+mouse,T cells,CD2,Single-Cell Transcriptomic Map of the Human and Mouse Bladders
+mouse,T cells,CD3E,Single-Cell Transcriptomic Map of the Human and Mouse Bladders
+mouse,T cells,CD3D,Single-Cell Transcriptomic Map of the Human and Mouse Bladders
+mouse,T cells,CD8A,Single-Cell Transcriptomic Map of the Human and Mouse Bladders
+mouse,B cells,PECAM1,Single-Cell Transcriptomic Map of the Human and Mouse Bladders
+mouse,B cells,MZB1,Single-Cell Transcriptomic Map of the Human and Mouse Bladders
+mouse,B cells,CD19,Single-Cell Transcriptomic Map of the Human and Mouse Bladders
+mouse,B cells,CD79B,Single-Cell Transcriptomic Map of the Human and Mouse Bladders
+mouse,B cells,CD19,Single-Cell Transcriptomic Map of the Human and Mouse Bladders
+human,epithelial cell,KRT18,Single-Cell Transcriptomic Map of the Human and Mouse Bladders
+human,epithelial cell,KRT19,Single-Cell Transcriptomic Map of the Human and Mouse Bladders
+human,basal cell ,KRT5,Single-Cell Transcriptomic Map of the Human and Mouse Bladders
+human,basal cell,KRT17,Single-Cell Transcriptomic Map of the Human and Mouse Bladders
+human,"intermediate cell, basal cell",KRT13,Single-Cell Transcriptomic Map of the Human and Mouse Bladders
+human,umbrella cell,KRT20,Single-Cell Transcriptomic Map of the Human and Mouse Bladders
+human,"umbrella cellhigh, intermediate celllow(#)",UPK1A,Single-Cell Transcriptomic Map of the Human and Mouse Bladders
+human,"umbrella cellhigh, intermediate celllow(#)",UPK1B,Single-Cell Transcriptomic Map of the Human and Mouse Bladders
+human,"umbrella cellhigh, intermediate celllow(#)",UPK3B,Single-Cell Transcriptomic Map of the Human and Mouse Bladders
+human,umbrella cell,UPK3A,Single-Cell Transcriptomic Map of the Human and Mouse Bladders
+human,umbrella cell,UPK2,Single-Cell Transcriptomic Map of the Human and Mouse Bladders
+human,interstitial cell,VIM,Single-Cell Transcriptomic Map of the Human and Mouse Bladders
+human,fibroblast,S100A4,Single-Cell Transcriptomic Map of the Human and Mouse Bladders
+human,fibroblast,COL3A1,Single-Cell Transcriptomic Map of the Human and Mouse Bladders
+human,fibroblast,COL1A1 ,Single-Cell Transcriptomic Map of the Human and Mouse Bladders
+human,fibroblast,COL1A2,Single-Cell Transcriptomic Map of the Human and Mouse Bladders
+human,myofibroblast,ACTA2,Single-Cell Transcriptomic Map of the Human and Mouse Bladders
+human,smooth muscle cell,TAGLN,Single-Cell Transcriptomic Map of the Human and Mouse Bladders
+human,smooth muscle cell,DES,Single-Cell Transcriptomic Map of the Human and Mouse Bladders
+human,smooth muscle cell,CNN1,Single-Cell Transcriptomic Map of the Human and Mouse Bladders
+human,smooth muscle cell,ACTG2,Single-Cell Transcriptomic Map of the Human and Mouse Bladders
+human,smooth muscle cell,TPM2,Single-Cell Transcriptomic Map of the Human and Mouse Bladders
+human,endothelial cell,SELE,Single-Cell Transcriptomic Map of the Human and Mouse Bladders
+human,endothelial cell,PECAM1,Single-Cell Transcriptomic Map of the Human and Mouse Bladders
+human,endothelial cell,VCAM1,Single-Cell Transcriptomic Map of the Human and Mouse Bladders
+human,endothelial cell,CDH5,Single-Cell Transcriptomic Map of the Human and Mouse Bladders
+human,monocyte,LYZ,Single-Cell Transcriptomic Map of the Human and Mouse Bladders
+human,monocyte,MS4A7,Single-Cell Transcriptomic Map of the Human and Mouse Bladders
+human,monocyte,CD14,Single-Cell Transcriptomic Map of the Human and Mouse Bladders
+human,dendritic cell,CD209,Single-Cell Transcriptomic Map of the Human and Mouse Bladders
+human,T cell,CD3D,Single-Cell Transcriptomic Map of the Human and Mouse Bladders
+human,T cell,CD3E,Single-Cell Transcriptomic Map of the Human and Mouse Bladders
+human,B cell,MZB1,Single-Cell Transcriptomic Map of the Human and Mouse Bladders
+human,B cell,CD79A,Single-Cell Transcriptomic Map of the Human and Mouse Bladders
+human,neurone,GPM6A,Single-Cell Transcriptomic Map of the Human and Mouse Bladders
+human,Proximal convoluted tubule cells,"SLC13A1, SLC13A3",Single-cell RNA sequencing of human kidney
+human,Proximal tubule cells,DCXR,Single-cell RNA sequencing of human kidney
+human,Proximal straight tubule cells,"SLC17A3, SLC22A7,SLC22A8",Single-cell RNA sequencing of human kidney
+human,NK-T cells,"GNLY, KNG7",Single-cell RNA sequencing of human kidney
+human,Monocytes,"LYZ,CD14",Single-cell RNA sequencing of human kidney
+human,Glomerular parietal epithelial cells,"KRT8,KRT18,CD24",Single-cell RNA sequencing of human kidney
+human,Distal tubule cells,"UMOD,DEFB1",Single-cell RNA sequencing of human kidney
+human,Collecting duct principal cells,APQ2,Single-cell RNA sequencing of human kidney
+human,B cells,"CD79A,CD79B",Single-cell RNA sequencing of human kidney
+human,Collecting duct intercalated cells,"ATP6V1G3,ATP6V0D2",Single-cell RNA sequencing of human kidney
+human,Luminal1,"KLK2, KLK3, KRT8, KRT18, ACPP, MSMB",Single-cell transcriptomics reveals cell type diversity of human prostate
+human,smooth muscle1,"RGS5, MYH11, DES, ACTG2, TPM1, TPM2",Single-cell transcriptomics reveals cell type diversity of human prostate
+human,neutrophile,"S100A9, S100A8",Single-cell transcriptomics reveals cell type diversity of human prostate
+human,fibroblast1,"CFD, LUM, DCN, COL1A1, COL1A2, COL1A3",Single-cell transcriptomics reveals cell type diversity of human prostate
+human,endotheliocyte1,"ACKR1, EMCN, SELE, IFI27, RNASE1, RAMP2",Single-cell transcriptomics reveals cell type diversity of human prostate
+human,epithelium1,"KRT8, KRT18, KRT19, KRT13, KRT17, FABP4, S100P",Single-cell transcriptomics reveals cell type diversity of human prostate
+human,T cells,"CD3D, CD69",Single-cell transcriptomics reveals cell type diversity of human prostate
+human,epithelium3,"KRT19, KRT13, KRT17, KRT15, SCGB3A1, SCGB1A1",Single-cell transcriptomics reveals cell type diversity of human prostate
+human,macrophage,"C1QA, C1QB",Single-cell transcriptomics reveals cell type diversity of human prostate
+human,Luminal2,"KLK2, KLK3, KRT8, KRT18, SLC4A4",Single-cell transcriptomics reveals cell type diversity of human prostate
+human,smooth muscle2,"RGS5, MYH11, NDUFA4L2, HIGD1B",Single-cell transcriptomics reveals cell type diversity of human prostate
+human,smooth muscle3,"RGS5, MYH11, ACTG2, RERGL, PLN, TAGLN",Single-cell transcriptomics reveals cell type diversity of human prostate
+human,endotheliocyte2,"ACKR1, EMCN, SELE, IFI27, VCAM1, CSF3",Single-cell transcriptomics reveals cell type diversity of human prostate
+human,epithelium4,"KRT18, KRT8, SAA1, SAA2",Single-cell transcriptomics reveals cell type diversity of human prostate
+human,fibroblast2,"CFD, LUM, DCN, PTGDS, MFAP4",Single-cell transcriptomics reveals cell type diversity of human prostate
+human,epithelium2,"KRT19, KRT17, KRT13, AQP3, KRT7",Single-cell transcriptomics reveals cell type diversity of human prostate
+human,B cells,"CD69, CD83, TPSB2, TPSAB1",Single-cell transcriptomics reveals cell type diversity of human prostate
+human,fibroblast3,"CFD, LUM, DCN, AREG, STC1, PLAT",Single-cell transcriptomics reveals cell type diversity of human prostate
