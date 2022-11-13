@@ -5,6 +5,7 @@ from tab3 import page_3
 from tab1 import page_1
 from tab2 import page_2
 from tab4 import page_4
+from image import images
 
 
 st.set_page_config(page_icon="🌴", page_title="###", layout="wide")
