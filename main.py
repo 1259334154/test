@@ -14,6 +14,7 @@ st.title('##'*10)
 
 tab1, tab2, tab3, tab4 = st.tabs(["page_1", "page_2", "page_3",'pag_4'])
 with tab1:
+    images()
     page_1()
 with tab3:
     page_3()
