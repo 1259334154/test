@@ -57,4 +57,4 @@ def init_streamlit(streamlit_model_path, title, footer):
 
 
 streamlit_model_path = os.path.join(ROOT_PATH)
-init_streamlit(streamlit_model_path=streamlit_model_path,title="An online platform for exploring single cell adrenal glands atlas"footer='Made with kourou')
+init_streamlit(streamlit_model_path=streamlit_model_path, title='###    ', footer='###')
