@@ -38,6 +38,17 @@ def images():
     )
 
     if clicked == 0:
-        st.download_button(label='Download',
+        st.download_button(label='Download1',
                            data='./test.csv',
                            file_name='test.csv')
+    if clicked == 1:
+        st.download_button(label='Download2',
+                           data='./data/cluster.csv',
+                           file_name='test.csv'
+                           )
+
+    if clicked == 2:
+        st.download_button(label='Download3',
+                           data='./data/cluster.csv',
+                           file_name='test.csv'
+                           )
