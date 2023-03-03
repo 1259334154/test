@@ -1,5 +1,6 @@
 import init_streamlit
 import streamlit as st
+import pandas as pd
 
 from tab3 import page_3
 from tab1 import page_1
@@ -18,6 +19,8 @@ with tab1:
     images()
     page_1()
 with tab2:
-    page_3()
+#     page_3()
+    df = pd.read_csv('./cluster.csv', encoding='gbk')
+    st.table(df)
 with tab3:
     page_4()
