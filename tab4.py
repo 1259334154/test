@@ -69,7 +69,7 @@ def page_4():
                 <option value=">=">>=</option>
                 <option value="!=">!=</option>
               </select>
-              <input id="filter-value" type="text" placeholder="Please fill in the content to be filtered" style="font-size:15px;border-color:grey;border-radius:5%">
+              <input id="filter-value" type="text" placeholder="fill in the content to be filtered" style="font-size:15px;border-color:grey;border-radius:5%">
               <button id="filter-clear" style="font-size:15px;background:#00ccff;color:white;border-radius:15%;border-color:white;">clear filter</button>
               <button id="download-csv" style="font-size:15px;background:#00ccff;color:white;border-radius:15%;border-color:white;">Download CSV</button>
               <button id="download-xlsx" style="font-size:15px;background:#00ccff;color:white;border-radius:15%;border-color:white;">Download XLSX</button>
