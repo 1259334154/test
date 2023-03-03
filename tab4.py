@@ -72,8 +72,8 @@ def page_4():
               <input id="filter-value" type="text" placeholder="Please fill in the content to be filtered" style="font-size:15px;border-color:grey;border-radius:5%">
               <button id="filter-clear" style="font-size:15px;background:#00ccff;color:white;border-radius:15%;border-color:white;">clear filter</button>
               <button id="download-csv" style="font-size:15px;background:#00ccff;color:white;border-radius:15%;border-color:white;">Download CSV</button>
-              <button id="download-xlsx" style="font-size:15px;background:#00ccff;color:white;border-radius:15%;border-color:white;">DownloadXLSX</button>
-              <button id="download-html" style="font-size:15px;background:#00ccff;color:white;border-radius:15%;border-color:white;">DownloadHTML</button>
+              <button id="download-xlsx" style="font-size:15px;background:#00ccff;color:white;border-radius:15%;border-color:white;">Download XLSX</button>
+              <button id="download-html" style="font-size:15px;background:#00ccff;color:white;border-radius:15%;border-color:white;">Download HTML</button>
             </div><script type="text/javascript">
                 var fieldEl = document.getElementById("filter-field");
                 var typeEl = document.getElementById("filter-type");
