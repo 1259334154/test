@@ -16,7 +16,7 @@ st.title("An online platform for exploring single cell adrenal glands atlas")
 
 tab1,tab2,tab3 = st.tabs(["introduction","Cluster","Markers"])
 with tab1:
-    images()
+#     images()
     page_1()
 with tab2:
 #     page_3()
