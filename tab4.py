@@ -12,6 +12,7 @@ def page_4():
     # file = 'G:/cacase-random forest.csv'
 
     # if file is not None:
+    @st.cache_data
     df = pd.read_csv('./all.csv', encoding="gbk")
 
     def draw_table(df, height, width):  # css画表
