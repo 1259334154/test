@@ -40,7 +40,7 @@ def page_4():
             column_setting.append(
                 {"title": columns[y],
                  "field": columns[y],
-                 "width": 230,
+                 "width": 100,
                  "sorter": "string",
                  "hozAlign": "center",
                  "headerFilter": "input",
