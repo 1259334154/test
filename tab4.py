@@ -6,7 +6,7 @@ import streamlit.components.v1 as components
 
 def page_4():
     # st.write('到时候设置成固定文件')
-#     st.set_page_config(page_icon="🌴", page_title="Tabulator", layout="wide")
+    st.set_page_config(page_icon="🌴", page_title="Tabulator", layout="wide")
 
     # file = st.file_uploader("请上传文件", type=["csv"])#文件上传的
     # file = 'G:/cacase-random forest.csv'
