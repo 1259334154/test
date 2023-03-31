@@ -16,7 +16,7 @@ def page_4():
     # df = pd.read_csv('D:/Desktop/副本/adult human adrenal.csv', encoding="gbk")
     # df = pd.read_csv('D:/Desktop/副本/fetal adrenal cells.csv', encoding="gbk")
     # df = pd.read_csv('D:/Desktop/副本/new1.csv', encoding="gbk")
-    df = pd.read_csv('D:/Desktop/副本/all.csv', encoding="gbk")
+    df = pd.read_csv('D:./all.csv', encoding="gbk")
 
     def draw_table(df, height, width):  # css画表
         columns = df.columns
