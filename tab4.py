@@ -129,4 +129,4 @@ def page_4():
                     columns: [""" + ','.join(list(map(str, column_setting))) + """],});</script></body></html>""",
                         height=height, width=width)
 
-    draw_table(df, 1500, 1200)
+    draw_table(df, 1500, 2000)
