@@ -8,15 +8,7 @@ def page_4():
     # st.write('到时候设置成固定文件')
     # st.set_page_config(page_icon="🌴", page_title="Tabulator", layout="wide")
 
-    # file = st.file_uploader("请上传文件", type=["csv"])#文件上传的
-    # file = 'G:/cacase-random forest.csv'
-
-    # if file is not None:
-
-    # df = pd.read_csv('D:/Desktop/副本/adult human adrenal.csv', encoding="gbk")
-    # df = pd.read_csv('D:/Desktop/副本/fetal adrenal cells.csv', encoding="gbk")
-    # df = pd.read_csv('D:/Desktop/副本/new1.csv', encoding="gbk")
-    df = pd.read_csv('D:./all.csv', encoding="gbk")
+    df = pd.read_csv('./all.csv', encoding="gbk")
 
     def draw_table(df, height, width):  # css画表
         columns = df.columns
