@@ -67,9 +67,6 @@ def page_4():
               </select>
               <input id="filter-value" type="text" placeholder="填写要筛选的内容" style="font-size:15px;border-color:grey;border-radius:5%">
               <button id="filter-clear" style="font-size:15px;background:#00ccff;color:white;border-radius:15%;border-color:white;">清除筛选</button>
-              <button id="download-csv" style="font-size:15px;background:#00ccff;color:white;border-radius:15%;border-color:white;">下载CSV</button>
-              <button id="download-xlsx" style="font-size:15px;background:#00ccff;color:white;border-radius:15%;border-color:white;">下载XLSX</button>
-              <button id="download-html" style="font-size:15px;background:#00ccff;color:white;border-radius:15%;border-color:white;">下载HTML</button>
             </div><script type="text/javascript">
                 var fieldEl = document.getElementById("filter-field");
                 var typeEl = document.getElementById("filter-type");
