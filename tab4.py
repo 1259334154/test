@@ -65,8 +65,8 @@ def page_4():
                 <option value=">=">>=</option>
                 <option value="!=">!=</option>
               </select>
-              <input id="filter-value" type="text" placeholder="填写要筛选的内容" style="font-size:15px;border-color:grey;border-radius:5%">
-              <button id="filter-clear" style="font-size:15px;background:#00ccff;color:white;border-radius:15%;border-color:white;">清除筛选</button>
+              <input id="filter-value" type="text" placeholder="Fill in the content to be filtered" style="font-size:15px;border-color:grey;border-radius:5%">
+              <button id="filter-clear" style="font-size:15px;background:#00ccff;color:white;border-radius:15%;border-color:white;">Clear filter</button>
             </div><script type="text/javascript">
                 var fieldEl = document.getElementById("filter-field");
                 var typeEl = document.getElementById("filter-type");
