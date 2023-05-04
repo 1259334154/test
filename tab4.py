@@ -121,7 +121,7 @@ def page_4():
                     movableRows:false,
                     resizableColumnFit:false,
                     pagination: "local",
-                    paginationSize: 200,
+                    paginationSize: 1200,
                     tooltips: true,
                     columns: [""" + ','.join(list(map(str, column_setting))) + """],});</script></body></html>""",
                         height=height, width=width)
