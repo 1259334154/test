@@ -36,7 +36,7 @@ def page_4():
             column_setting.append(
                 {"title": columns[y],
                  "field": columns[y],
-                 "width": 130,
+                 "width": 140,
                  "sorter": "string",
                  "hozAlign": "center",
                  "headerFilter": "input",
