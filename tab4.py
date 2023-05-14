@@ -11,27 +11,14 @@ def page_4():
     df = pd.read_csv('./all.csv', encoding="gbk")
 
     def draw_table(df, height, width):  # css画表
+    def draw_table(df, height, width):  # css画表
         columns = df.columns
         column_selection = []
-        column_selection.append(
-            """<select id="filter-field" style="font-size:15px;
-            background:white;
-            color:black;
-            border-radius:15%;
-            border-color:grey;
-            ">""")
-        for i in range(len(columns)):
-            column_selection.append(
-                """<option value='""" + str(columns[i]) + """'>""" + str(columns[i]) + """</option>""")
-        column_selection.append("""</select>""")
+
+        # 列
+
         table_data = df.to_dict(orient="records")
         column_setting = []
-        column_setting.append(
-            """{rowHandle:true, formatter:"handle", 
-            headerSort:false, 
-            frozen:true, 
-            width:3, 
-            minWidth:20}""")
         for y in range(df.shape[1]):
             column_setting.append(
                 {"title": columns[y],
