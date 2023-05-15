@@ -10,7 +10,7 @@ def page_4():
 
     df = pd.read_csv('./all.csv', encoding="gbk")
 
-    def draw_table(df, height, width):  # css画表
+
     def draw_table(df, height, width):  # css画表
         columns = df.columns
         column_selection = []
