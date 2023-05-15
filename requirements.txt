@@ -8,4 +8,4 @@ pathlib==1.0.1
 bs4==0.0.1
 lxml==4.9.1
 rootpath==0.1.1
-protobuf~==3.19.0
+protobuf~=3.19.0
