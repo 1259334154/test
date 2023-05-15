@@ -43,17 +43,7 @@ def page_4():
             <script type="text/javascript" src="https://oss.sheetjs.com/sheetjs/xlsx.full.min.js"></script>
         </head><body> 
             <div style="margin-left:30%;">""" + "".join(column_selection) +
-                        """<select id="filter-type" style="font-size:15px;background:#00ccff;color:white;border-radius:15%;border-color:white;">
-                <option value="like">like</option>
-                <option value="=">=</option>
-                <option value="<"><</option>
-                <option value="<="><=</option>
-                <option value=">">></option>
-                <option value=">=">>=</option>
-                <option value="!=">!=</option>
-              </select>
-              <input id="filter-value" type="text" placeholder=" " style="font-size:15px;border-color:grey;border-radius:5%">
-              <button id="filter-clear" style="font-size:15px;background:#00ccff;color:white;border-radius:15%;border-color:white;">Clear filter</button>
+                        """
             </div><script type="text/javascript">
                 var fieldEl = document.getElementById("filter-field");
                 var typeEl = document.getElementById("filter-type");
