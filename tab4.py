@@ -97,6 +97,7 @@ def page_4():
                     layout: "fitDataTable",
                     movableRows:false,
                     resizableColumnFit:false,
+                    resizableColumns: false，
                     pagination: "local",
                     paginationSize: 1200,
                     tooltips: true,
