@@ -92,14 +92,14 @@ def page_4():
                         """<script type="text/javascript">
                 var tabledata = [""" + ','.join(list(map(str, table_data))) + """];""" +
                         """var table = new Tabulator("#players", {
-                    height: 500,
+                    height: '320px',
                     data: tabledata,
                     layout: "fitDataTable",
                     movableRows:false,
                     resizableColumnFit:false,
                     resizableColumns: false，
                     pagination: "local",
-                    paginationSize: 1200,
+                    paginationSize: 2300,
                     tooltips: true,
                     columns: [""" + ','.join(list(map(str, column_setting))) + """],});</script></body></html>""",
                         height=height, width=width)
