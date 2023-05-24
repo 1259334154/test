@@ -95,12 +95,13 @@ def page_4():
                     height: '320px',
                     data: tabledata,
                     layout: "fitDataTable",
+                    autoResize:false,
+                    resizableRows:false,
                     movableRows:false,
-                    resizableColumnFit:false,
-                    resizableColumns: false，
+                    resizableColumns:false,
                     pagination: "local",
-                    paginationSize: 2300,
-                    tooltips: true,
+                    paginationSize:2300,
+                    tooltips: false,
                     columns: [""" + ','.join(list(map(str, column_setting))) + """],});</script></body></html>""",
                         height=height, width=width)
 
