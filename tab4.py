@@ -8,7 +8,7 @@ def page_4():
     # st.write('到时候设置成固定文件')
     # st.set_page_config(page_icon="🌴", page_title="Tabulator", layout="wide")
 
-    df = pd.read_csv('https://github.com/1259334154/test/blob/main/all.csv', encoding="gbk")
+    df = pd.read_csv('./all.csv', encoding="gbk")
 
 
     def draw_table(df, height, width):  # css画表
