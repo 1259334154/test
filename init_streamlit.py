@@ -57,4 +57,4 @@ def init_streamlit(streamlit_model_path, title, footer):
 
 
 streamlit_model_path = os.path.join(ROOT_PATH)
-init_streamlit(streamlit_model_path=streamlit_model_path, title='###    ', footer='###')
+init_streamlit(streamlit_model_path=streamlit_model_path, title='###', footer='###')
